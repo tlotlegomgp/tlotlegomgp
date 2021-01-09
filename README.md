@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Dark-Matter-crypto/Dark-Matter-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>Welcome to my Github profile 👋</h2>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>My name is Tlotlego Mogapi. I am a Computer Science student and a Django developer. </p>
+  <p>I love working on fun projects and will be regularly pushing to my repositories. </p>
+
+</div>
+
+<div align="center">
+
+- 🌱 I’m currently learning React
+- 🤔 Planning on learning Docker in 2021
+- ⚡ My interests: Music, film, anime, working out, and ofcourse coding!
+
+</div>
