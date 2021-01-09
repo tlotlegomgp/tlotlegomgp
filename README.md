@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-<hr>
-🌱 I’m currently learning React
-🤔 Planning on learning Docker in 2021
-⚡ My interests: Music, film, anime, working out, and ofcourse coding!
+  
+  <p>🌱 I’m currently learning React</p>
+  <p>🤔 Planning on learning Docker in 2021</p>
+  <p>⚡ My interests: Music, film, anime, working out, and ofcourse coding!</p>
 
 </div>
