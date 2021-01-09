@@ -9,11 +9,11 @@
   <p>I love working on fun projects and will be regularly pushing to my repositories. </p>
 
 </div>
-
+---
 <div align="center">
 
-- 🌱 I’m currently learning React
-- 🤔 Planning on learning Docker in 2021
-- ⚡ My interests: Music, film, anime, working out, and ofcourse coding!
+🌱 I’m currently learning React
+🤔 Planning on learning Docker in 2021
+⚡ My interests: Music, film, anime, working out, and ofcourse coding!
 
 </div>
