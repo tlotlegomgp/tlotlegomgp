@@ -12,7 +12,6 @@
 
 <div align="center">
   <br>
-  <p>🌱 I’m currently learning Vue.js</p>
   <p>🤔 Planning on learning Docker in 2021</p>
   <p>⚡ My interests: Music, film, anime, working out, and ofcourse coding!</p>
 
