@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <p>My name is <strong>Tlotlego Mogapi</strong>. I am a software and website developer. </p>
+  <p>My name is <strong>Tlotlego Mogapi</strong>. I am a software and web developer. </p>
   <p>I love working on fun projects and will be regularly pushing to my repos. </p>
 
 </div>
